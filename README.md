@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Martin6319
 - 👀 I’m interested in  learn coding
-- 🌱 I’m currently learning Java
+- 🌱 Java , Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
